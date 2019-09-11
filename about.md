@@ -9,6 +9,7 @@ A simple and elegant theme for Jekyll and GitHub Pages.
 aaa
 
 ### Features:
+
 * Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
 * Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
 * Supports a wide range of HTML elements and markdown.
